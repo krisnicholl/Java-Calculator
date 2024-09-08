@@ -88,4 +88,12 @@ Alternatively you can run the application using an IDE such as IntelliJ which ca
      POST /clear
      Response: "Last results cleared"
      ```
+## Future Development
+
+For future development the following can be added:
+ - Add more endpoints to handle more complex calculations (such as sin, cos etc)
+ - Have the ability to store more results to memory to allow the user to perform more calculations
+ - Ensure 100% test coverage
+ - Have the ability to handle brackets and return the correct result
+ - Add in endpoints that can do conversations (like currency conversation) that will use other APIs to return the correct conversation rates for different currency
 
